@@ -1,0 +1,8 @@
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\bin\Debug\netcoreapp3.1\EnumeradorDinamico.deps.json
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\bin\Debug\netcoreapp3.1\EnumeradorDinamico.dll
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\bin\Debug\netcoreapp3.1\EnumeradorDinamico.pdb
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\obj\Debug\netcoreapp3.1\EnumeradorDinamico.csprojAssemblyReference.cache
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\obj\Debug\netcoreapp3.1\EnumeradorDinamico.AssemblyInfoInputs.cache
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\obj\Debug\netcoreapp3.1\EnumeradorDinamico.AssemblyInfo.cs
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\obj\Debug\netcoreapp3.1\EnumeradorDinamico.dll
+C:\Users\henrique.firmino\Source\Repos\EnumeradorDinamico\EnumeradorDinamico\EnumeradorDinamico\obj\Debug\netcoreapp3.1\EnumeradorDinamico.pdb
